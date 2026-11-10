@@ -1,0 +1,7 @@
+coverage/
+build/
+.cache/
+.next/
+.DS_Store
+.pnpm-store/
+.env.local
